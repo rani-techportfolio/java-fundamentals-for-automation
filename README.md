@@ -21,6 +21,16 @@ The focus is on logical programming, problem-solving, and understanding Java con
 
 ---
 
+### 🔹 Arrays
+
+- ✅ Array Analysis (Sum, Average, Largest & Smallest Element)
+- ✅ Check if an Array is Sorted
+- ✅ Count Odd and Even Numbers in an Array
+- ✅ Reverse an Array
+- ✅ Find the Second Largest Number in an Array
+
+---
+
 ## 🎯 Purpose of this Repository
 - Strengthen Core Java fundamentals
 - Build logic required for Selenium automation frameworks
@@ -30,7 +40,7 @@ The focus is on logical programming, problem-solving, and understanding Java con
 ---
 
 ## 🚀 Future Enhancements
-- Arrays and String programs
+- String programs
 - Object-Oriented Programming (OOPs)
 - Exception Handling
 - Collections Framework
@@ -39,4 +49,4 @@ The focus is on logical programming, problem-solving, and understanding Java con
 ---
 
 ## 🧑‍💻 Author
-Rani Rahul
+Rani Mohanlal
