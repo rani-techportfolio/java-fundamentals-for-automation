@@ -23,11 +23,11 @@ The focus is on logical programming, problem-solving, and understanding Java con
 
 ### 🔹 Arrays
 
-- ✅ Array Analysis (Sum, Average, Largest & Smallest Element)
-- ✅ Check if an Array is Sorted
-- ✅ Count Odd and Even Numbers in an Array
-- ✅ Reverse an Array
-- ✅ Find the Second Largest Number in an Array
+-  Array Analysis (Sum, Average, Largest & Smallest Element)
+-  Check if an Array is Sorted
+-  Count Odd and Even Numbers in an Array
+-  Reverse an Array
+-  Find the Largesr and Second Largest Number in an Array
 
 ---
 
