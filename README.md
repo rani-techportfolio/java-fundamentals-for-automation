@@ -31,7 +31,7 @@ The focus is on logical programming, problem-solving, and understanding Java con
 
 ---
 
-###🔹 Loops
+### 🔹 Loops
 
 - Armstrong Number
 - Sum of Digits of a Number
@@ -44,7 +44,8 @@ The focus is on logical programming, problem-solving, and understanding Java con
 
  ---
 
- ### 🔹 String manipulation
+### 🔹 String Manipulation
+
 - Count a Specific Character and Word Occurrence
 - Count Words
 - Check Palindrome String
