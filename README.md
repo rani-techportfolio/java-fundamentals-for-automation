@@ -31,6 +31,27 @@ The focus is on logical programming, problem-solving, and understanding Java con
 
 ---
 
+###🔹 Loops
+
+- Armstrong Number
+- Sum of Digits of a Number
+- Fibonacci Series
+- Sum of First N Natural Numbers
+- Inverted Star Pyramid Pattern
+- Perfect Number
+- Prime Number Check
+- Reverse a Number
+
+ ---
+
+ ### 🔹 String manipulation
+- Count a Specific Character and Word Occurrence
+- Count Words
+- Check Palindrome String
+- String Analysis (Vowel, Consonant, Digit, Space, Special Character Count)
+
+ --- 
+
 ## 🎯 Purpose of this Repository
 - Strengthen Core Java fundamentals
 - Build logic required for Selenium automation frameworks
